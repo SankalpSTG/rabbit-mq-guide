@@ -1,6 +1,6 @@
 # RabbitMQ Guide
 
-This is a demo repository for RabbitMQ which creates a basic setup to send messages between two clients
+This is a demo repository for RabbitMQ which creates a Queue based basic setup to send messages between two clients
 
 In this repository, there are two Nest.Js projects: client1 and client2
 
