@@ -50,6 +50,8 @@ Install dependencies of both the clients by navigating inside the folders and ru
 ```
 npm install
 ```
+Create a new ```.env``` file in both the clients and copy contents of ```.env.example``` into ```.env``` file
+
 Spin up both the clients
 ```
 npm run start:dev
